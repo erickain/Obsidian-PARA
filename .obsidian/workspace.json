@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "b33ce59dd053df03",
+    "type": "split",
+    "children": [
+      {
+        "id": "da8351189736b9ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d0baa96994040df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8526ff32b0cb0d30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd43c5016b23455b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8b95c0cbf7d343e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1efaa3784c607619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdec945cd0cd2e89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "426beee94720052c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9177c57ef4e6f6b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41c6bc2edbf5ed78",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0557d8e775efca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0445056cfbfe877",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3c4c431e9a8a6ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b921b98a76eb0ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7e3e755129ab55d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fdec945cd0cd2e89",
+  "lastOpenFiles": [
+    "README.md",
+    "3 Resources",
+    "2 Areas",
+    "1 Projects/Land DevOps Job",
+    "1 Projects",
+    "0 Inbox/Test inbox note.md",
+    "0 Inbox/Test 5.md",
+    "0 Inbox/Test 2.md",
+    "0 Inbox/2024-07-13.md",
+    "0 Inbox",
+    "4 Archives",
+    "Welcome.md"
+  ]
+}
